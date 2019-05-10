@@ -80,3 +80,22 @@ footer{
 	font-weight: normal;
 	font-size: 10px;
 }
+
+h4{
+	text-align: center;
+	margin: 5px;
+}
+
+article p{
+	font-weight: normal;
+	padding:  5px;
+	text-indent: 40px;
+}
+
+form{
+	font-size: 13px;
+	text-align: center;
+}
+form input{
+	text-align: center;
+}
